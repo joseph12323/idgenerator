@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/idgenerator/static/css/main.e08afdd3.css",
+    "main.js": "/idgenerator/static/js/main.252c3439.js",
+    "static/media/default-photo.jpg": "/idgenerator/static/media/default-photo.d6c3b96347190a465d66.jpg",
+    "index.html": "/idgenerator/index.html",
+    "main.e08afdd3.css.map": "/idgenerator/static/css/main.e08afdd3.css.map",
+    "main.252c3439.js.map": "/idgenerator/static/js/main.252c3439.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e08afdd3.css",
+    "static/js/main.252c3439.js"
+  ]
+}
