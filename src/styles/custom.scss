@@ -1,0 +1,15 @@
+
+$theme-colors: (
+    "primary": #1D2F6F,
+    "secondary": #8390FA,
+    "tertiary": #F88DAD,
+    "action": #FAC748,
+    "gray": #dfdfdf,
+);
+
+@import "~bootstrap/scss/bootstrap";
+
+//extend bootstrap form-control to inherit styling
+.PhoneInputInput {
+    @extend .form-control
+}
